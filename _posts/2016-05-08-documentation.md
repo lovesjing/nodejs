@@ -1,3 +1,9 @@
+---
+layout: post
+title: Documentation
+img: lost-7.jpg
+---
+
 Bheema is a theme suitabel for image heavy journal kind of websites. 
 
 Demo: [http://webjeda.com/bheema/](http://webjeda.com/bheema/)
@@ -27,11 +33,11 @@ This process will host the theme as a **Project Page**. You can also download th
 
 Default theme will look like this
 
-![webjeda cards jekyll theme](https://github.com/sharu725/bheema/raw/master/img/bheema-jekyll-theme.png)
+![webjeda bheema jekyll theme]({{site.baseurl}}/img/bheema-jekyll-theme.png)
 
 This theme is responsive.
 
-![webjeda cards responsive jekyll theme](https://github.com/sharu725/bheema/raw/master/img/bheema-jekyll-responsive-theme-screenshot.png)
+![webjeda bheema responsive jekyll theme]({{site.baseurl}}/img/bheema-jekyll-responsive-theme-screenshot.png)
 
 
 # Development
@@ -40,3 +46,8 @@ Make changes to the **master** branch and create a pull request. Do not use **gh
 
 # License
 MIT License
+
+# Changelog
+<pre> 
+Version 0.8 - Initial release. Skeleton based layout. Inspired by TheVerge.
+</pre>
